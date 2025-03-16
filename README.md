@@ -19,7 +19,7 @@ cd preswald_clone
 python -m venv preswald_envc
 preswald_envc\Scripts\activate
 pip install preswald
-git clone https://github.com/TALAVIYAJAY/preswald.git
+git clone https://github.com/TALAVIYAJAY/preswald_choco_chart.git
 ```
 
 ### 🔹 **Run the Project**  
