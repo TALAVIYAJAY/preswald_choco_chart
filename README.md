@@ -28,7 +28,7 @@ cd preswald_clone
 preswald_env\Scripts\activate
 cd preswald
 cd community_gallery
-cd choco_chart
+cd chocolate_sales
 preswald run
 ```
 
