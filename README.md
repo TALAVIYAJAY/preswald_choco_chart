@@ -1,10 +1,3 @@
-Here's a **concise README.md** file based on your requirements:  
-
----
-
-### 📌 **README.md**  
-
-```markdown
 # 🍫 Chocolate Sales Dashboard - Preswald  
 
 📊 **Interactive Dashboard for Chocolate Sales Analysis**  
@@ -16,8 +9,6 @@ Here's a **concise README.md** file based on your requirements:
 - **Sales trends visualization** 📈  
 - **Country-wise and product-wise analysis** 🌎  
 - **Interactive charts for deeper insights** 🔍  
-
----
 
 ## 🛠️ Setup & Run  
 
@@ -44,9 +35,4 @@ cd disasters
 preswald run
 ```
 
----
-
-✅ **Now your Preswald dashboard is live! 🚀**  
-```
-
-This README is **straightforward and includes only key details** as per your request. Let me know if you need any modifications! 🚀
+✅ **Now your Preswald dashboard is live! 🚀**
