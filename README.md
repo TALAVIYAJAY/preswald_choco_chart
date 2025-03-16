@@ -26,9 +26,7 @@ git clone https://github.com/TALAVIYAJAY/preswald_choco_chart.git
 ```bash
 cd preswald_clone
 preswald_env\Scripts\activate
-cd preswald
-cd community_gallery
-cd chocolate_sales
+cd preswald_choco_chart
 preswald run
 ```
 
