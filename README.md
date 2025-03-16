@@ -14,8 +14,7 @@
 
 ### 🔹 **Initialize & Clone Repository**  
 ```bash
-D:
-cd django
+#Create folder preswald_clone
 cd preswald_clone
 python -m venv preswald_envc
 preswald_envc\Scripts\activate
@@ -25,13 +24,11 @@ git clone https://github.com/TALAVIYAJAY/preswald.git
 
 ### 🔹 **Run the Project**  
 ```bash
-D:
-cd django
 cd preswald_clone
 preswald_env\Scripts\activate
 cd preswald
 cd community_gallery
-cd disasters
+cd choco_chart
 preswald run
 ```
 
